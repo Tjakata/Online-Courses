@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Online Courses</string>
+    <string name="data_science">Data Science</string>
+    <string name="front_end_web_development">Front-End Web Development</string>
+    <string name="mobile_app_development">Mobile App Development</string>
+    <string name="todo">TODO</string>
+</resources>
